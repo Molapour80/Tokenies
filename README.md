@@ -25,7 +25,7 @@ A simple code tokenizer written in Python that processes a string of code and ex
 
 
 # 🚩Usage
-"""Python
+```Python
 from tokenizer import tokenize
 
 code = 
@@ -49,7 +49,7 @@ code =
 
 tokens = tokenize(code)
 for token_type, value in tokens:
-    print('Token: {}, Value: {}'.format(token_type, value))"""
+    print('Token: {}, Value: {}'.format(token_type, value))```
 
 
 

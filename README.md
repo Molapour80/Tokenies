@@ -1,5 +1,4 @@
-
-🎁# Code Tokenizer
+# 🎁Code Tokenizer
 
 A simple code tokenizer written in Python that processes a string of code and extracts various types of tokens, including integers, floats, identifiers, operators, keywords, delimiters, strings, and comments.
 

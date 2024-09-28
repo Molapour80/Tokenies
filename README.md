@@ -17,7 +17,7 @@ A simple code tokenizer written in Python that processes a string of code and ex
 - Handles single-line and multi-line comments
 - Uses regular expressions for tokenization
 
-## <i class="fa-sharp fa-regular fa-download"></i> Requirements
+##  Requirements
 
 - Python 3
 - os
@@ -25,8 +25,8 @@ A simple code tokenizer written in Python that processes a string of code and ex
 
 
 
-🎁# Usage
-'''
+# Usage
+
 from tokenizer import tokenize
 
 code = '''
@@ -52,7 +52,7 @@ for token_type, value in tokens:
     print('Token: {}, Value: {}'.format(token_type, value))
 
 
-'''
+
 
 
 
